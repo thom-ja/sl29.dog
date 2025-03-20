@@ -7,7 +7,7 @@ name = "sl29.dog"
 version = "0.1"
 description = "Un projet pour enseigner la POO en Python avec une classe Dog"
 authors = [
-    { name = "Yves Cadour", email = "yves.cadour@saint-louis29.net" },
+    { name = "Thomas JAOUEN", email = "jaouen-t@saint-louis29.net" },
 ]
 readme = "README.rst"
 requires-python = ">=3.6"
@@ -24,7 +24,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/saintlouis29/sl29.dog"
+Homepage = "https://github.com/thom-ja/sl29.dog"
 
 [tool.setuptools]
 packages = ["sl29.dog"]
